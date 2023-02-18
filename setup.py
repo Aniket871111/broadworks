@@ -7,9 +7,9 @@ import BwksAPIOperations
 def setup():
     #config 
     xsp = "broadsoftsandboxxsp.cisco.com"
-    group_name = "zowu-Grp1"  #use your own group name
-    provisioner = "zowu-Grp1" #use your own group admin account
-    provisioner_passwd = "cisco123"
+    group_name = "ay8711111-Grp1"  #use your own group name
+    provisioner = "ay8711111-Grp1" #use your own group admin account
+    provisioner_passwd = "2rc9cm8t"
     enter_id = "DevNet"
     domain = "broadsoftlab.com"
     user_password = "cisco123"
